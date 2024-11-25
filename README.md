@@ -1,4 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Clean Code for Beginners
+
+<small>Note: This is a simple presentation for an English class about clean code for beginners.</small>
+
+## Starting the Slide Show
 
 To start the slide show:
 
@@ -9,3 +13,15 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+## Building the Presentation
+
+To build the presentation:
+
+- `npm run build`
+
+## Exporting the Presentation
+
+To export the presentation:
+
+- `npm run export`
